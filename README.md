@@ -1,2 +1,2 @@
-# flutter-repo
-fresh repository for flutter projects
+# Take home task 
+flutter UI take home task 
