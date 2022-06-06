@@ -63,7 +63,9 @@ class NinjaCard extends StatelessWidget {
                   Text(
                     'Ab.co.uk',
                     style: TextStyle(
-                        color: Colors.grey, fontSize: 18.0, letterSpacing: 1.0),
+                        color: Colors.blueGrey,
+                        fontSize: 18.0,
+                        letterSpacing: 1.0),
                   ),
                 ],
               )
